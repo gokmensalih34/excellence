@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a8bd54f-d6d7-41be-839a-742347bd75c5" name="Default Changelist" comment="" />
+    <list default="true" id="3a8bd54f-d6d7-41be-839a-742347bd75c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/excellence/utulities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/excellence/utulities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/overview-failures.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-reports/overview-failures.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/overview-features.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-reports/overview-features.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/overview-steps.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-reports/overview-steps.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/overview-tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-reports/overview-tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/report-feature_671827259.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-feature_671827259.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_2149507997.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_2149507997.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/default-html-reports/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/default-html-reports/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/excellenceautomation-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/excellenceautomation-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/excellence/utulities/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/excellence/utulities/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/Excellence.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/Excellence.feature" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +30,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,12 +46,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1hbvByeienx3AJ67ea0R9ymNTba" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showModules" value="false" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
@@ -66,21 +92,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="247" key="GridCell.Tab.0.bottom" timestamp="1600385447859">
+    <state width="1398" height="247" key="GridCell.Tab.0.bottom" timestamp="1600386440148">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1398" height="247" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1600385447859" />
-    <state width="1398" height="247" key="GridCell.Tab.0.center" timestamp="1600385447858">
+    <state width="1398" height="247" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1600386440148" />
+    <state width="1398" height="247" key="GridCell.Tab.0.center" timestamp="1600386440147">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1398" height="247" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1600385447858" />
-    <state width="1398" height="247" key="GridCell.Tab.0.left" timestamp="1600385447857">
+    <state width="1398" height="247" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1600386440147" />
+    <state width="1398" height="247" key="GridCell.Tab.0.left" timestamp="1600386440147">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1398" height="247" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1600385447857" />
-    <state width="1398" height="247" key="GridCell.Tab.0.right" timestamp="1600385447859">
+    <state width="1398" height="247" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1600386440147" />
+    <state width="1398" height="247" key="GridCell.Tab.0.right" timestamp="1600386440148">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1398" height="247" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1600385447859" />
+    <state width="1398" height="247" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1600386440148" />
   </component>
 </project>

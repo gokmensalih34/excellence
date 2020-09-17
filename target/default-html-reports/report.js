@@ -95,10 +95,8 @@ formatter.match({
   "location": "com.excellence.stepdefinitions.ExcellenceStepDefinitions.the_tabs_like_following(java.util.List\u003cjava.lang.String\u003e)"
 });
 formatter.result({
-  "error_message": "java.lang.AssertionError: Verify Tabs expected:\u003c[ABOUT, PEOPLE, MANAGEMENT, PRESS/EVENTS, CONTACT, CAREER, JOBSS]\u003e but was:\u003c[ABOUT, PEOPLE, MANAGEMENT, PRESS/EVENTS, CONTACT, CAREER, JOBS]\u003e\n\tat org.junit.Assert.fail(Assert.java:89)\n\tat org.junit.Assert.failNotEquals(Assert.java:835)\n\tat org.junit.Assert.assertEquals(Assert.java:120)\n\tat com.excellence.stepdefinitions.ExcellenceStepDefinitions.the_tabs_like_following(ExcellenceStepDefinitions.java:44)\n\tat ✽.the tabs like following(file:///Users/sgok/IdeaProjects/excellence/src/test/resources/features/Excellence.feature:11)\n",
-  "status": "failed"
+  "status": "passed"
 });
-formatter.embedding("image/png", "embedded0.png", "screenshot");
 formatter.after({
   "status": "passed"
 });

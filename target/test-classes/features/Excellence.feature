@@ -15,7 +15,7 @@ Feature: Excellence Page
       | PRESS/EVENTS |
       | CONTACT      |
       | CAREER       |
-      | JOBSS        |
+      | JOBS         |
 
 
 
