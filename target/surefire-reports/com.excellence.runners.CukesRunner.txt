@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.excellence.runners.CukesRunner
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 6.117 s <<< FAILURE! - in com.excellence.runners.CukesRunner
+Verify Tabs(Excellence Page)  Time elapsed: 2.95 s  <<< FAILURE!
+java.lang.AssertionError: Verify Tabs expected:<[ABOUT, PEOPLE, MANAGEMENT, PRESS/EVENTS, CONTACT, CAREER, JOBSS]> but was:<[ABOUT, PEOPLE, MANAGEMENT, PRESS/EVENTS, CONTACT, CAREER, JOBS]>
+

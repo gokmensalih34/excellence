@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a8bd54f-d6d7-41be-839a-742347bd75c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hbvByeienx3AJ67ea0R9ymNTba" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="excellenceautomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.excellence.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.excellence.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.excellence.runners.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a8bd54f-d6d7-41be-839a-742347bd75c5" name="Default Changelist" comment="" />
+      <created>1600292474922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600292474922</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="247" key="GridCell.Tab.0.bottom" timestamp="1600385447859">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="247" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1600385447859" />
+    <state width="1398" height="247" key="GridCell.Tab.0.center" timestamp="1600385447858">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="247" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1600385447858" />
+    <state width="1398" height="247" key="GridCell.Tab.0.left" timestamp="1600385447857">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="247" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1600385447857" />
+    <state width="1398" height="247" key="GridCell.Tab.0.right" timestamp="1600385447859">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="247" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1600385447859" />
+  </component>
+</project>
