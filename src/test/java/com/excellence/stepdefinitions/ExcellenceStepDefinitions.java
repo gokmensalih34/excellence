@@ -9,6 +9,7 @@ import io.cucumber.java.en.Then;
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.Wait;
 
 import java.util.List;
 
@@ -27,6 +28,8 @@ public class ExcellenceStepDefinitions {
 
         System.out.println("actualTitle = " + actualTitle);
 
+        BrowserUtils.waitFor(3);
+
         Assert.assertEquals("Verify Title", expectedTitle,actualTitle);
 
     }
@@ -40,6 +43,7 @@ public class ExcellenceStepDefinitions {
         System.out.println("actualTabs = " + actualTabs);
         System.out.println("expectedTabs = " + expectedTabs);
 
+        BrowserUtils.waitFor(3);
 
         Assert.assertEquals("Verify Tabs", expectedTabs, actualTabs);
 

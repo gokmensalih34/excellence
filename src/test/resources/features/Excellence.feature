@@ -5,9 +5,9 @@ Feature: Excellence Page
     Given the user access HomePage
 
   Scenario: User can access Excellence HomePage
-    Then the page title is "Excellence AG | German Engineering"
+    Then the page title is "Excellence AG | German Engineerings"
 
-  Scenario: Verify Tabs
+  Scenario: User can see the Tabs
     Then the tabs like following
       | ABOUT        |
       | PEOPLE       |

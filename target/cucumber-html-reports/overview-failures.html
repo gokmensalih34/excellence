@@ -77,7 +77,7 @@ $(document).ready(function() {
     <tr class="info">
       <td>Cucumber HTML Reports</td>
         <td>1</td>
-      <td>18 Sep 2020, 01:12</td>
+      <td>14 Oct 2020, 22:32</td>
     </tr>
   </tbody>
 </table>
@@ -127,14 +127,14 @@ $(document).ready(function() {
 </div>
 
 
-  <span class="lead-duration duration">0.118</span>
+  <span class="lead-duration duration">3.060</span>
 
 
   <span data-toggle="collapse" class=" collapsable-control" data-target="#element-1">
 
 <div class="brief failed">
   <span class="keyword indention">Scenario</span>
-  <span class="name">Verify Tabs</span>
+  <span class="name">User can access Excellence HomePage</span>
 
 
      <i class="chevron fa fa-fw"></i>
@@ -165,7 +165,7 @@ $(document).ready(function() {
             <span class="keyword indention">Before</span>
               <span class="location name">com.excellence.stepdefinitions.Hooks.setUp()</span>
 
-  <span class="lead-duration duration">1.086</span>
+  <span class="lead-duration duration">1.366</span>
 
           </div>
 
@@ -200,9 +200,9 @@ $(document).ready(function() {
 
 <div class="brief step-name-Then failed">
   <span class="keyword indention">Then</span>
-  <span class="name">the tabs like following</span>
+  <span class="name">the page title is <span class="argument">&quot;Excellence AG | German Engineerings&quot;</span></span>
 
-  <span class="lead-duration duration">0.118</span>
+  <span class="lead-duration duration">3.060</span>
 
 </div>
 
@@ -214,44 +214,19 @@ $(document).ready(function() {
   <div class="inner-level">
     <div class="message indention">
       <div data-toggle="collapse" class=" collapsable-control" data-target="#msg-4">
-          <a>java.lang.AssertionError:</a>
+          <a>org.junit.ComparisonFailure:</a>
       </div>
       <div id="msg-4" class="collapse collapsable-details  in ">
-        <pre>java.lang.AssertionError: Verify Tabs expected:&lt;[ABOUT, PEOPLE, MANAGEMENT, PRESS/EVENTS, CONTACT, CAREER, JOBSS]&gt; but was:&lt;[ABOUT, PEOPLE, MANAGEMENT, PRESS/EVENTS, CONTACT, CAREER, JOBS]&gt;
-	at org.junit.Assert.fail(Assert.java:89)
-	at org.junit.Assert.failNotEquals(Assert.java:835)
-	at org.junit.Assert.assertEquals(Assert.java:120)
-	at com.excellence.stepdefinitions.ExcellenceStepDefinitions.the_tabs_like_following(ExcellenceStepDefinitions.java:44)
-	at &#10045;.the tabs like following(file:///Users/sgok/IdeaProjects/excellence/src/test/resources/features/Excellence.feature:11)
+        <pre>org.junit.ComparisonFailure: Verify Title expected:&lt;...| German Engineering[s]&gt; but was:&lt;...| German Engineering[]&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at com.excellence.stepdefinitions.ExcellenceStepDefinitions.the_page_title_is(ExcellenceStepDefinitions.java:33)
+	at &#10045;.the page title is &quot;Excellence AG | German Engineerings&quot;(file:///Users/sgok/IdeaProjects/excellence/src/test/resources/features/Excellence.feature:8)
 </pre>
       </div>
     </div>
   </div>
 
 
-          <table class="step-arguments">
-              <tr>
-                  <td>ABOUT</td>
-              </tr>
-              <tr>
-                  <td>PEOPLE</td>
-              </tr>
-              <tr>
-                  <td>MANAGEMENT</td>
-              </tr>
-              <tr>
-                  <td>PRESS/EVENTS</td>
-              </tr>
-              <tr>
-                  <td>CONTACT</td>
-              </tr>
-              <tr>
-                  <td>CAREER</td>
-              </tr>
-              <tr>
-                  <td>JOBSS</td>
-              </tr>
-          </table>
 
 
 
@@ -287,7 +262,7 @@ $(document).ready(function() {
             <span class="keyword indention">After</span>
               <span class="location name">com.excellence.stepdefinitions.Hooks.tearDown(io.cucumber.java.Scenario)</span>
 
-  <span class="lead-duration duration">0.608</span>
+  <span class="lead-duration duration">0.582</span>
 
           </div>
 
@@ -300,13 +275,13 @@ $(document).ready(function() {
   <div class="embedding indention">
     <div data-toggle="collapse" data-target="#embedding-6" class="collapsable-control">
       <a>screenshot</a>
-      <a href="embeddings/embedding_447479537.png" download target="_blank">
+      <a href="embeddings/embedding_-617021114.png" download target="_blank">
         <span class="download-button glyphicon glyphicon-download-alt"></span>
       </a>
     </div>
     <div id="embedding-6" class="collapse collapsable-details ">
       <div class="embedding-content">
-        <img src="embeddings/embedding_447479537.png">
+        <img src="embeddings/embedding_-617021114.png">
       </div>
     </div>
   </div>

@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 Test set: com.excellence.runners.CukesRunner
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 6.117 s <<< FAILURE! - in com.excellence.runners.CukesRunner
-Verify Tabs(Excellence Page)  Time elapsed: 2.95 s  <<< FAILURE!
-java.lang.AssertionError: Verify Tabs expected:<[ABOUT, PEOPLE, MANAGEMENT, PRESS/EVENTS, CONTACT, CAREER, JOBSS]> but was:<[ABOUT, PEOPLE, MANAGEMENT, PRESS/EVENTS, CONTACT, CAREER, JOBS]>
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 15.422 s <<< FAILURE! - in com.excellence.runners.CukesRunner
+User can access Excellence HomePage(Excellence Page)  Time elapsed: 8.248 s  <<< FAILURE!
+org.junit.ComparisonFailure: Verify Title expected:<...| German Engineering[s]> but was:<...| German Engineering[]>
 
