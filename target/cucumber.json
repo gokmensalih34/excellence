@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 895531000,
+              "duration": 1283210000,
               "status": "passed"
             },
             "line": 5,
@@ -24,11 +24,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-09-17T23:46:38.638Z",
+        "start_timestamp": "2020-10-21T22:10:52.116Z",
         "before": [
           {
             "result": {
-              "duration": 2108486000,
+              "duration": 2392501000,
               "status": "passed"
             },
             "match": {
@@ -43,7 +43,7 @@
         "after": [
           {
             "result": {
-              "duration": 84366000,
+              "duration": 102697000,
               "status": "passed"
             },
             "match": {
@@ -56,7 +56,7 @@
         "steps": [
           {
             "result": {
-              "duration": 24363000,
+              "duration": 11447000,
               "status": "passed"
             },
             "line": 8,
@@ -88,7 +88,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1518795000,
+              "duration": 3222051000,
               "status": "passed"
             },
             "line": 5,
@@ -101,11 +101,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-09-17T23:46:41.759Z",
+        "start_timestamp": "2020-10-21T22:10:55.914Z",
         "before": [
           {
             "result": {
-              "duration": 1146890000,
+              "duration": 1132672000,
               "status": "passed"
             },
             "match": {
@@ -120,7 +120,7 @@
         "after": [
           {
             "result": {
-              "duration": 81669000,
+              "duration": 591650000,
               "status": "passed"
             },
             "match": {
@@ -133,7 +133,7 @@
         "steps": [
           {
             "result": {
-              "duration": 124047000,
+              "duration": 132205000,
               "status": "passed"
             },
             "line": 11,
@@ -193,6 +193,416 @@
     "id": "excellence-page",
     "keyword": "Feature",
     "uri": "file:src/test/resources/features/Excellence.feature",
+    "tags": [
+      {
+        "name": "@wip",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1338561000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "the user access HomePage",
+            "match": {
+              "location": "com.excellence.stepdefinitions.ExcellenceStepDefinitions.the_user_access_HomePage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-10-21T22:10:52.116Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2392490000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.excellence.stepdefinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "User can access Excellence HomePage",
+        "description": "",
+        "id": "excellence-page-a;user-can-access-excellence-homepage",
+        "after": [
+          {
+            "result": {
+              "duration": 99329000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.excellence.stepdefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8090000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "the page title is \"Excellence AG | German Engineering\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Excellence AG | German Engineering\"",
+                  "offset": 18
+                }
+              ],
+              "location": "com.excellence.stepdefinitions.ExcellenceStepDefinitions.the_page_title_is(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2872602000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "the user access HomePage",
+            "match": {
+              "location": "com.excellence.stepdefinitions.ExcellenceStepDefinitions.the_user_access_HomePage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-10-21T22:10:55.959Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1168095000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.excellence.stepdefinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "Verify Tabs",
+        "description": "",
+        "id": "excellence-page-a;verify-tabs",
+        "after": [
+          {
+            "result": {
+              "duration": 84585000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.excellence.stepdefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 120072000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "the tabs like following",
+            "match": {
+              "location": "com.excellence.stepdefinitions.ExcellenceStepDefinitions.the_tabs_like_following(java.util.List\u003cjava.lang.String\u003e)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "ABOUT"
+                ]
+              },
+              {
+                "cells": [
+                  "PEOPLE"
+                ]
+              },
+              {
+                "cells": [
+                  "MANAGEMENT"
+                ]
+              },
+              {
+                "cells": [
+                  "PRESS/EVENTS"
+                ]
+              },
+              {
+                "cells": [
+                  "CONTACT"
+                ]
+              },
+              {
+                "cells": [
+                  "CAREER"
+                ]
+              },
+              {
+                "cells": [
+                  "JOBS"
+                ]
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip"
+          }
+        ]
+      }
+    ],
+    "name": "Excellence Page A",
+    "description": "",
+    "id": "excellence-page-a",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/a.feature",
+    "tags": [
+      {
+        "name": "@wip",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2020288000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "the user access HomePage",
+            "match": {
+              "location": "com.excellence.stepdefinitions.ExcellenceStepDefinitions.the_user_access_HomePage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-10-21T22:10:52.116Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2392458000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.excellence.stepdefinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "User can access Excellence HomePage",
+        "description": "",
+        "id": "excellence-page-b;user-can-access-excellence-homepage",
+        "after": [
+          {
+            "result": {
+              "duration": 93720000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.excellence.stepdefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 44332000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "the page title is \"Excellence AG | German Engineering\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Excellence AG | German Engineering\"",
+                  "offset": 18
+                }
+              ],
+              "location": "com.excellence.stepdefinitions.ExcellenceStepDefinitions.the_page_title_is(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2270481000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "the user access HomePage",
+            "match": {
+              "location": "com.excellence.stepdefinitions.ExcellenceStepDefinitions.the_user_access_HomePage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-10-21T22:10:56.671Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1008094000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.excellence.stepdefinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "Verify Tabs",
+        "description": "",
+        "id": "excellence-page-b;verify-tabs",
+        "after": [
+          {
+            "result": {
+              "duration": 599904000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.excellence.stepdefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 252247000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "the tabs like following",
+            "match": {
+              "location": "com.excellence.stepdefinitions.ExcellenceStepDefinitions.the_tabs_like_following(java.util.List\u003cjava.lang.String\u003e)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "ABOUT"
+                ]
+              },
+              {
+                "cells": [
+                  "PEOPLE"
+                ]
+              },
+              {
+                "cells": [
+                  "MANAGEMENT"
+                ]
+              },
+              {
+                "cells": [
+                  "PRESS/EVENTS"
+                ]
+              },
+              {
+                "cells": [
+                  "CONTACT"
+                ]
+              },
+              {
+                "cells": [
+                  "CAREER"
+                ]
+              },
+              {
+                "cells": [
+                  "JOBS"
+                ]
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip"
+          }
+        ]
+      }
+    ],
+    "name": "Excellence Page B",
+    "description": "",
+    "id": "excellence-page-b",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/b.feature",
     "tags": [
       {
         "name": "@wip",

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="Excellence Page" time="8.973" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="Excellence Page A" time="8.202" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
     <property name="java.specification.version" value="12"/>
@@ -58,6 +58,6 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="56.0"/>
   </properties>
-  <testcase name="User can access Excellence HomePage" classname="Excellence Page" time="3.89"/>
-  <testcase name="Verify Tabs" classname="Excellence Page" time="5.083"/>
+  <testcase name="User can access Excellence HomePage" classname="Excellence Page A" time="3.937"/>
+  <testcase name="Verify Tabs" classname="Excellence Page A" time="4.264"/>
 </testsuite>

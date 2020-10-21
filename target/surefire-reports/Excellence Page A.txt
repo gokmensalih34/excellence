@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: Excellence Page
+Test set: Excellence Page A
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.973 s - in Excellence Page
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.202 s - in Excellence Page A
